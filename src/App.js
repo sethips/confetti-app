@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div>
         Hello World!
-        <Confetti />
+        <Confetti numberOfItems={150} />
       </div>
     );
   }
