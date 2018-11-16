@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import Confetti from "./confetti";
+import Confetti from "./components/Confetti";
 
 class App extends Component {
   render() {

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import "./confetti.scss";
+import "./styles.scss";
 
 class App extends Component {
   render() {
